@@ -1,0 +1,10 @@
+PROJECTS FOR PORTFOLIO
+
+1. Download code from REPLS *DONE*
+
+2. Make GitHub Repositories for the projects we want to showcase
+
+3. Convert website to GitHub Pages and host it
+
+4. Add/edit clickable links to projects on portfolio website (*main one is Marriott*) / Also can directly add links in LinkedIn
+
